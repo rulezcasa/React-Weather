@@ -25,3 +25,6 @@ This is a web based application that uses external APIs and react libraries to d
 ## API used:
 
 https://openweathermap.org/api
+
+## Future commits and isssues:
+Please refer to the issues section of this repository for comments regarding this. 
