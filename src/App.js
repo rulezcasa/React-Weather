@@ -4,8 +4,6 @@ import Axios from "axios";
 import CityComponent from "./components/CityComponent";
 import WeatherComponent from "./components/WeatherInfoComponent";
 
-
-
 const Container = styled.div`
   display: flex;
   flex-direction: column;

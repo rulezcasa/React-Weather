@@ -2,6 +2,7 @@ import styled from "styled-components";
 import React from "react";
 import {WiBarometer} from "react-icons/wi";
 import {WiDayCloudy} from "react-icons/wi";
+
 const SearchBox = styled.form
   `display: flex;
   flex-direction: row;

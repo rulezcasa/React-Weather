@@ -68,6 +68,7 @@ const InfoLabel = styled.span`
   }
 `;
 
+
 const WeatherInfoComponent = (props) => {
     const {name, value} = props;
     return (
@@ -101,7 +102,8 @@ const WeatherComponent = (props) => {
                 <WiHumidity size={70}/>
                 <WeatherInfoComponent name={"%"} value={weather?.main?.humidity}/>
             </WeatherInfoContainer>
+            
         </>
     );
-};
+}; 
 export default WeatherComponent;
