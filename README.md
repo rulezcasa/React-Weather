@@ -18,9 +18,10 @@ This is a web based application that uses external APIs and react libraries to d
 
 ## Running the build:
 
-1. cd into the project's directory
-2. npm start
-3. Project will be live at : http://localhost:3000/
+1. Pre requisite : Install nodejs and npm
+2. cd into the project's directory
+3. npm start
+4. Project will be live at : http://localhost:3000/
 
 ## API used:
 
